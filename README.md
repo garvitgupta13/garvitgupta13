@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvitgupta13&label=Profile%20views&color=0e75b6&style=flat" alt="garvitgupta13" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/garvitgupta13](https://github.com/garvitgupta13)
 
