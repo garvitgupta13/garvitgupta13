@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Garvit Gupta</h1>
-<h3 align="center">A prefinal year undergrad exploring software development</h3>
+<h3 align="center">A final year undergrad exploring software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvitgupta13&label=Profile%20views&color=0e75b6&style=flat" alt="garvitgupta13" /> </p>
 
 - 🔭 I’m currently working on [Dr-Net](https://github.com/garvitgupta13/Dr-Net)
 
-- 🌱 I’m currently learning **Keras**
+- 🌱 I’m currently learning **Django REST Framework**
 
 - 👨‍💻 All of my projects are available at [https://garvitgupta13.github.io/](https://garvitgupta13.github.io/)
 
