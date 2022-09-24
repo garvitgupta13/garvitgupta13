@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dr-Net](https://github.com/garvitgupta13/Dr-Net)
 
-- 🌱 I’m currently learning **Django RESST Framework**
+- 🌱 I’m currently learning **Django REST Framework**
 
 - 👨‍💻 All of my projects are available at [https://garvitgupta13.github.io/](https://garvitgupta13.github.io/)
 
